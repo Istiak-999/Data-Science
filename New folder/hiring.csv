@@ -1,0 +1,9 @@
+experience,test_score(out of 10),interview_score(out of 10),salary($),performance
+,8,9,50000,better
+,8,6,45000,better
+five,6,7,60000,good
+two,10,10,65000,best
+seven,9,6,70000,best
+three,7,10,62000,good
+ten,,7,72000,better
+eleven,7,8,80000,good
